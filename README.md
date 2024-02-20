@@ -6,4 +6,4 @@ We will use the cryptography library in python to encrypt a file. The cryptograp
 ### Contributors
 - [Yakshit Poojary](https://github.com/YakshitPoojary) 16010121140
 - [Zaidali Merchant](https://github.com/zeusopera9) 16010121108
-- [Shubraja Lalith](https://github.com/ruta1402) 16010121100
+- [Shubraja Lalith](https://github.com/shubrajalalith) 16010121100
